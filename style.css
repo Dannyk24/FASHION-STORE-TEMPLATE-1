@@ -1114,7 +1114,7 @@ em {
 }
 
 .testimonial-card p {
-    font-family: var(--font-display);
+    font-family: inter, Arial;
     font-size: var(--fs-lg);
     line-height: 1.6;
     margin-bottom: var(--sp-md);
