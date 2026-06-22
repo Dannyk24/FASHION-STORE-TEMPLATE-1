@@ -476,8 +476,8 @@ em {
 }
 
 .mobile-menu a {
-    font-family: var(--font-display);
-    font-size: var(--fs-xl);
+    font-family: inter, arial;
+    font-size: 16px;
 }
 
 .mobile-menu-cta {
